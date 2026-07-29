@@ -11,46 +11,20 @@ To create a Portfolio using HTML and CSS.
 ## ALGORITHM
 
 ### STEP 1
-Create an HTML file (index.html).
+Create the required HTML and CSS files for the portfolio.
 
 ### STEP 2
-Create a CSS file (style.css).
+Design the portfolio with navigation, home, about, skills, projects, and contact sections.
 
 ### STEP 3
-Include a navigation bar with links to different sections.
+Apply CSS styles, colors, layout, images, and responsive design.
 
 ### STEP 4
-Add structured sections for introduction, about, projects, and contact details.
+Test the portfolio in a web browser and fix any design issues.
 
 ### STEP 5
-Define global styles for fonts, colors, and layout.
+Upload the portfolio to GitHub and deploy it using GitHub Pages.
 
-### STEP 6
-Style the header, navigation bar, and sections.
-
-### STEP 7
-Use Flexbox or CSS Grid for layout design.
-
-### STEP 8
-Add hover effects and transitions for interactivity.
-
-### STEP 9
-Add images and media.
-
-### STEP 10
-Use optimized images for a professional look.
-
-### STEP 11
-Open the HTML file in a browser to check layout and functionality.
-
-### STEP 12
-Fix styling issues and refine content placement.
-
-### STEP 13
-Deploy the portfolio.
-
-### STEP 14
-Upload the project to GitHub Pages.
 
 ## RESULT
 
