@@ -25,7 +25,26 @@ Test the portfolio in a web browser and fix any design issues.
 ### STEP 5
 Upload the portfolio to GitHub and deploy it using GitHub Pages.
 
+உங்க project-க்கு README.md-ல இப்படி எழுதலாம்:
 
+## Technologies Used
+
+- HTML5
+- CSS3
+
+## Files
+
+- index.html
+- global.css
+- navbar.css
+- style.css
+
+### Images
+
+- images/profile.jpg
+- images/favicon.png
+
+- 
 ## RESULT
 
 The program for creating a Portfolio using HTML and CSS was executed successfully.
