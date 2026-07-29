@@ -1,8 +1,8 @@
 # Ex01 Portfolio
 
-**Date:** 29/07/2026
-**Name:** SWETHA R
-**Register No:** 212225100055
+<p><strong>Date:</strong> 29/07/2026</p>
+<p><strong>Name:</strong> SWETHA R</p>
+<p><strong>Register No:</strong> 212225100055</p>
 
 ## AIM
 
